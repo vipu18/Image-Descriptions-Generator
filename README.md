@@ -1,12 +1,13 @@
 # AI Image Description Generator 🤖
 
-This is a Streamlit-based web application that generates AI-powered image descriptions using Salesforce's BLIP image captioning model. Users can upload images, generate descriptions, and download results in CSV format.
+This Streamlit-based web application generates AI-powered image descriptions using Salesforce's BLIP image captioning model. Users can upload images, generate descriptions, and download results in CSV format.
 
 ## Features
 - Upload multiple images via the sidebar
 - Preview uploaded images in a table format
 - Generate AI-powered descriptions for images
 - Download descriptions as a CSV file
+- No paid API needed and free
 
 ## Installation
 
@@ -74,6 +75,10 @@ Iterates through the DataFrame and fills empty description fields by calling `ge
 1. Upload images via the sidebar.
 2. Click **"Generate Image Description"** to generate captions.
 3. Download the results as a CSV file if needed.
+
+## Notes
+This project is free to use and requires no paid API or external cloud services.
+All processing happens locally on your machine.
 
 ![image](https://github.com/user-attachments/assets/a5841c15-ba91-49b7-9167-411ddbaadb6e)
 
