@@ -75,6 +75,8 @@ Iterates through the DataFrame and fills empty description fields by calling `ge
 2. Click **"Generate Image Description"** to generate captions.
 3. Download the results as a CSV file if needed.
 
+![image](https://github.com/user-attachments/assets/a5841c15-ba91-49b7-9167-411ddbaadb6e)
+
 ## License
 
 This project is licensed under the MIT License.
