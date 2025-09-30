@@ -1,12 +1,12 @@
-<p align="center"><h1 align="center">AI-IMAGE-DESCRIPTION-GENERATOR</h1></p>
+<p align="center"><h1 align="center">AI-Image-Descriptions-Generator</h1></p>
 <p align="center">
 <em><code>❯ AI-Powered Image Captioning with Salesforce BLIP Model</code></em>
 </p>
 <p align="center">
-<img src="https://img.shields.io/github/license/username/image-description-generator?style=default&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
-<img src="https://img.shields.io/github/last-commit/username/image-description-generator?style=default&logo=git&logoColor=white&color=0080ff" alt="last-commit">
-<img src="https://img.shields.io/github/languages/top/username/image-description-generator?style=default&color=0080ff" alt="repo-top-language">
-<img src="https://img.shields.io/github/languages/count/username/image-description-generator?style=default&color=0080ff" alt="repo-language-count">
+<img src="https://img.shields.io/github/license/username/Image-Descriptions-Generator?style=default&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
+<img src="https://img.shields.io/github/last-commit/username/Image-Descriptions-Generator?style=default&logo=git&logoColor=white&color=0080ff" alt="last-commit">
+<img src="https://img.shields.io/github/languages/top/username/Image-Descriptions-Generator?style=default&color=0080ff" alt="repo-top-language">
+<img src="https://img.shields.io/github/languages/count/username/Image-Descriptions-Generator?style=default&color=0080ff" alt="repo-language-count">
 </p>
 <p align="center"><!-- default option, no dependency badges. -->
 </p>
@@ -66,7 +66,7 @@ The system processes images locally using state-of-the-art transformer-based vis
 ##  Project Structure
 
 ```sh
-└── ai-image-description-generator/
+└── ai-Image-Descriptions-Generator/
     ├── .gitattributes
     ├── Image-Descriptions-Generator.code-workspace
     ├── app.py
@@ -76,29 +76,29 @@ The system processes images locally using state-of-the-art transformer-based vis
 
 ###  Project Index
 <details open>
-<summary><b><code>AI-IMAGE-DESCRIPTION-GENERATOR/</code></b></summary>
+<summary><b><code>AI-Image-Descriptions-Generator/</code></b></summary>
 <details> <!-- __root__ Submodule -->
 <summary><b>__root__</b></summary>
 <blockquote>
 <table>
 <tr>
-<td><b><a href='https://github.com/username/ai-image-description-generator/blob/master/app.py'>app.py</a></b></td>
+<td><b><a href='https://github.com/username/ai-Image-Descriptions-Generator/blob/master/app.py'>app.py</a></b></td>
 <td><code>❯ Main Streamlit application with BLIP model integration, image processing pipeline, and interactive UI components</code></td>
 </tr>
 <tr>
-<td><b><a href='https://github.com/username/ai-image-description-generator/blob/master/requirements.txt'>requirements.txt</a></b></td>
+<td><b><a href='https://github.com/username/ai-Image-Descriptions-Generator/blob/master/requirements.txt'>requirements.txt</a></b></td>
 <td><code>❯ Python dependencies including Streamlit, PyTorch, Transformers, and image processing libraries</code></td>
 </tr>
 <tr>
-<td><b><a href='https://github.com/username/ai-image-description-generator/blob/master/README.md'>README.md</a></b></td>
+<td><b><a href='https://github.com/username/ai-Image-Descriptions-Generator/blob/master/README.md'>README.md</a></b></td>
 <td><code>❯ Comprehensive project documentation with installation guide, usage instructions, and technical details</code></td>
 </tr>
 <tr>
-<td><b><a href='https://github.com/username/ai-image-description-generator/blob/master/.gitattributes'>.gitattributes</a></b></td>
+<td><b><a href='https://github.com/username/ai-Image-Descriptions-Generator/blob/master/.gitattributes'>.gitattributes</a></b></td>
 <td><code>❯ Git configuration file defining line ending and file handling attributes for cross-platform compatibility</code></td>
 </tr>
 <tr>
-<td><b><a href='https://github.com/username/ai-image-description-generator/blob/master/Image-Descriptions-Generator.code-workspace'>Image-Descriptions-Generator.code-workspace</a></b></td>
+<td><b><a href='https://github.com/username/ai-Image-Descriptions-Generator/blob/master/Image-Descriptions-Generator.code-workspace'>Image-Descriptions-Generator.code-workspace</a></b></td>
 <td><code>❯ VS Code workspace configuration file for optimized development environment setup</code></td>
 </tr>
 </table>
@@ -111,7 +111,7 @@ The system processes images locally using state-of-the-art transformer-based vis
 
 ###  Prerequisites
 
-Before getting started with ai-image-description-generator, ensure your runtime environment meets the following requirements:
+Before getting started with ai-Image-Descriptions-Generator, ensure your runtime environment meets the following requirements:
 
 - **Programming Language:** Python 3.8+
 - **Package Manager:** Pip
@@ -120,18 +120,18 @@ Before getting started with ai-image-description-generator, ensure your runtime 
 
 ###  Installation
 
-Install ai-image-description-generator using one of the following methods:
+Install ai-Image-Descriptions-Generator using one of the following methods:
 
 **Build from source:**
 
-1. Clone the ai-image-description-generator repository:
+1. Clone the ai-Image-Descriptions-Generator repository:
 ```sh
-❯ git clone https://github.com/username/ai-image-description-generator
+❯ git clone https://github.com/username/ai-Image-Descriptions-Generator
 ```
 
 2. Navigate to the project directory:
 ```sh
-❯ cd ai-image-description-generator
+❯ cd ai-Image-Descriptions-Generator
 ```
 
 3. Create a virtual environment (recommended):
@@ -152,7 +152,7 @@ Install ai-image-description-generator using one of the following methods:
 
 ###  Usage
 
-Run ai-image-description-generator using the following command:
+Run ai-Image-Descriptions-Generator using the following command:
 
 **Using `pip`** &nbsp; [<img align="center" src="https://img.shields.io/badge/Pip-3776AB.svg?style=default&logo=pypi&logoColor=white" />](https://pypi.org/project/pip/)
 
@@ -208,9 +208,9 @@ Run manual tests using the following approach:
 
 ##  Contributing
 
-- **💬 [Join the Discussions](https://github.com/username/ai-image-description-generator/discussions)**: Share your insights, provide feedback, or ask questions.
-- **🐛 [Report Issues](https://github.com/username/ai-image-description-generator/issues)**: Submit bugs found or log feature requests for the `ai-image-description-generator` project.
-- **💡 [Submit Pull Requests](https://github.com/username/ai-image-description-generator/blob/main/CONTRIBUTING.md)**: Review open PRs, and submit your own PRs.
+- **💬 [Join the Discussions](https://github.com/username/ai-Image-Descriptions-Generator/discussions)**: Share your insights, provide feedback, or ask questions.
+- **🐛 [Report Issues](https://github.com/username/ai-Image-Descriptions-Generator/issues)**: Submit bugs found or log feature requests for the `ai-Image-Descriptions-Generator` project.
+- **💡 [Submit Pull Requests](https://github.com/username/ai-Image-Descriptions-Generator/blob/main/CONTRIBUTING.md)**: Review open PRs, and submit your own PRs.
 
 <details closed>
 <summary>Contributing Guidelines</summary>
@@ -218,7 +218,7 @@ Run manual tests using the following approach:
 1. **Fork the Repository**: Start by forking the project repository to your github account.
 2. **Clone Locally**: Clone the forked repository to your local machine using a git client.
    ```sh
-   git clone https://github.com/username/ai-image-description-generator
+   git clone https://github.com/username/ai-Image-Descriptions-Generator
    ```
 3. **Create a New Branch**: Always work on a new branch, giving it a descriptive name.
    ```sh
@@ -241,8 +241,8 @@ Run manual tests using the following approach:
 <summary>Contributor Graph</summary>
 <br>
 <p align="left">
-   <a href="https://github.com/username/ai-image-description-generator/graphs/contributors">
-      <img src="https://contrib.rocks/image?repo=username/ai-image-description-generator">
+   <a href="https://github.com/username/ai-Image-Descriptions-Generator/graphs/contributors">
+      <img src="https://contrib.rocks/image?repo=username/ai-Image-Descriptions-Generator">
    </a>
 </p>
 </details>
