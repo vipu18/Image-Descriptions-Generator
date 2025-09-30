@@ -3,10 +3,10 @@
 <em><code>❯ AI-Powered Image Captioning with Salesforce BLIP Model</code></em>
 </p>
 <p align="center">
-<img src="https://img.shields.io/github/license/username/ai-image-description-generator?style=default&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
-<img src="https://img.shields.io/github/last-commit/username/ai-image-description-generator?style=default&logo=git&logoColor=white&color=0080ff" alt="last-commit">
-<img src="https://img.shields.io/github/languages/top/username/ai-image-description-generator?style=default&color=0080ff" alt="repo-top-language">
-<img src="https://img.shields.io/github/languages/count/username/ai-image-description-generator?style=default&color=0080ff" alt="repo-language-count">
+<img src="https://img.shields.io/github/license/username/image-description-generator?style=default&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
+<img src="https://img.shields.io/github/last-commit/username/image-description-generator?style=default&logo=git&logoColor=white&color=0080ff" alt="last-commit">
+<img src="https://img.shields.io/github/languages/top/username/image-description-generator?style=default&color=0080ff" alt="repo-top-language">
+<img src="https://img.shields.io/github/languages/count/username/image-description-generator?style=default&color=0080ff" alt="repo-language-count">
 </p>
 <p align="center"><!-- default option, no dependency badges. -->
 </p>
